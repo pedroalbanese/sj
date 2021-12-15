@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"gosj/sj"
+	"github.com/pedroalbanese/sj"
 )
 
 func main() {
